@@ -10,7 +10,7 @@ So, actually right now this is a port of https://github.com/venomous0x/WhatsAPI.
 
 People who helped me:
 * Oliver Scheuch
-* @sgade
+* [@sgade](https://github.com/sgade/)
 
 ### License
 The License is GPL.
